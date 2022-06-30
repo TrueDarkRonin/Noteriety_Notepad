@@ -4,7 +4,7 @@ A basic Notepad written in Python.
 GUI built with PyQt5.
 
 ### Requirements:
--PyQt5
+- PyQt5
 
 To install dependency use
 ```bash
