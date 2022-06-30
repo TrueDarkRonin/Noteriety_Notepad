@@ -1,5 +1,15 @@
 # Noteriety_Notepad
-A basic Notepad written in Python. GUI built with PyQt5
+### Description:
+A basic Notepad written in Python. 
+GUI built with PyQt5.
 
-Requirements:
+### Requirements:
 -PyQt5
+
+To install dependency use
+```bash
+pip install PyQt5
+```
+
+### Scripts:
+[Noteriety_Notepad.pyw](Noteriety_Notepad.pyw)
